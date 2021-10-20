@@ -1,0 +1,136 @@
+.flex{
+    display: flex;
+}
+
+.align-center{
+    align-items: center;
+}
+
+.justify-left{
+    justify-content: left;
+}
+.justify-center{
+    justify-content: center;
+}
+.justify-right{
+    justify-content: right;
+}
+.justify-around{
+    justify-content: space-around;
+}
+.justify-between{
+    justify-content: space-between;
+}
+.right-width{
+    width: 20%;
+}
+.bcwhite{
+    background-color: white;
+}
+.font-large{
+    font-size: large;
+}
+.font-xlarge{
+    font-size: x-large;
+}
+.text-grey{
+    color: rgb(151, 148, 148);
+}
+.text-black{
+    color: black;
+}
+.bold{
+    font-weight: bold;
+}
+.italic{
+    font-style: italic;
+}
+
+
+.nav_bar{
+    color: white;
+    background-color: rgb(179, 179, 179);
+    max-width: auto;
+    height: 50px;
+    padding-left: 10%;
+    padding-right: 10%;
+}
+.nav{
+    width: 100%;
+}
+.left-nav a{
+    color: white;
+    text-decoration: none;
+}
+.btn{
+    color: white;
+    background-color: #02a1d1;
+    border: 2px solid black;
+    box-shadow: 3px 1px 1px black;
+}
+
+.container-1{
+    margin-left: 10%;
+    margin-right: 2%;
+    margin-top: 50px;
+}
+.container-2{
+    margin-right: 10%; 
+    margin-top: 50px;  
+}
+.col-1{
+    flex: 1;
+}
+.col-2{
+    flex: 2;
+}
+.col-3{
+    flex: 3;
+}
+.up-prof{
+    height: 100px;
+    width: auto;
+    background-color: #1f6a81;
+}
+.up-secondary-box{
+    height: 30px;
+    width: auto;
+    background-color: #484e50;
+}
+.main-prof{
+    height: auto;
+    width: 50%;
+    border: 3px solid #000000;
+    padding-left: 2%;
+    margin-bottom: 50px;
+}
+.main-secondary-box{
+    height: auto;
+    width: auto;
+    border: 3px solid #000000;
+    margin-bottom: 50px;
+}
+.padding-box{
+    padding: 2%;
+}
+.prof-inner-icon{
+    height: 20px;
+    width: auto;
+}
+.likes_button{
+    height: auto;
+    width: auto;
+    background-color: rgb(255, 179, 79);
+    padding-left: 5%;
+    padding-right: 7%;
+    padding-top: 4%;
+    padding-bottom: 4%;
+    border: 2px solid black ;
+    box-shadow: 3px 2px 2px black;
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+h1{
+    margin: 0%;
+    padding: -2%;
+}
